@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Sharukh</h1>
 <h3 align="center">Meticulous web developer with over 2 years of experience and
               passion for responsive web design. My expertise lies within front-end web apps, and the main languages in my tech stack are JavaScript, React, and of course HTML/CSS. I’m a lifelong learner and love to teach.</h3>
-
-<p align="right"><a href="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" width="60" height="60"/></p>
+              
+<img align="right" alt="coding" width="400" src="https://www.olivesofts.com/web/web_development.jpg">
 
 - 🔭 I’m currently working on **React JS, JavaSCript, HTML and CSS**
 
