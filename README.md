@@ -4,7 +4,7 @@
 <h3 align="center">Meticulous web developer with over 2 years of experience and
               passion for responsive web design. My expertise lies within front-end web apps, and the main languages in my tech stack are JavaScript, React, and of course HTML/CSS. I’m a lifelong learner and love to teach.</h3>
               
-<img align="right" alt="coding" width="400" height="500" src="https://www.olivesofts.com/web/web_development.jpg">
+<img align="right" alt="coding" width="400" height="400" src="https://www.olivesofts.com/web/web_development.jpg">
 
 - 🔭 I’m currently working on **React JS, JavaSCript, HTML and CSS**
 
