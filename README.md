@@ -1,7 +1,7 @@
 ![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
 
 <h1 align="center">Hi 👋, I'm Sharukh</h1>
-<h3 align="center">Meticulous web developer with over 3 years of experience and
+<h3 align="center">Meticulous web developer with over 4 years of experience and
               passion for responsive web design. My expertise lies within front-end web apps, and the main languages in my tech stack are JavaScript, React, and HTML/CSS. I’m a lifelong learner and love to teach.</h3>
 <img align="right" alt="coding" width="400" src="https://www.olivesofts.com/web/web_development.jpg">
 
